@@ -1,7 +1,7 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
-<h1 align="center">Hi 👋, I'm Mohamed Azharudeen</h1>
+ <h1 align="center">Hi 👋, I'm Mohamed Azharudeen</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
- <img align="right" alt="Coding" width="400" src="https://images.prismic.io/smarttask/cee8cef0-2d13-495a-a97c-33d922ce3cd5_project+analyst.gif?auto=compress,format"/>
+<img align="right" alt="Coding" width="400" src="https://images.prismic.io/smarttask/cee8cef0-2d13-495a-a97c-33d922ce3cd5_project+analyst.gif?auto=compress,format"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azharjustin&label=Profile%20views&color=0e75b6&style=flat" alt="azharjustin" /> </p>
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/im_azha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_azha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/azhar-justin-04966b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/azhar-justin-04966b226" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/azhar-justin-04966b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar-justin-04966b226" height="30" width="40" /></a>
 <a href="https://instagram.com/dr._living_attitude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dr._living_attitude" height="30" width="40" /></a>
 </p>
 
