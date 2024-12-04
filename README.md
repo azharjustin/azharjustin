@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my own project**
 
-- 👨‍💻 All of my projects are available at [https://seemyportfolio0.netlify.app/](https://seemyportfolio0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://seemyportfolio0.netlify.app/](https://seemyportfolio-2.netlify.app)
 
 - 💬 Ask me about **react,MERN**
 
